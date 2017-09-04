@@ -1,0 +1,59 @@
+body, div, p{
+    font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Raleway', sans-serif;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    padding: 0px 20px;
+}
+nav ul {
+    float: right;
+    clear: both;
+
+}
+header{
+    clear: both;
+}
+header h1 {
+    padding: 100px 30px;
+    font-size: 60px;
+    text-align: center;
+    margin: auto;
+
+}
+header img {
+    display: inline-block;
+    max-width: 200px;
+    border-radius: 50%;
+    margin-right: 50px;
+    float: left;
+
+} 
+#two {
+    display: inline-block;
+    max-width: 100px;
+    border-radius: 50%;
+
+}
+ #three { 
+    display: inline-block;
+    max-width: 50px;
+    border-radius: 50%;
+
+}
+ #four {
+    display: inline-block;
+    max-width: 20px;
+    border-radius: 50%;
+
+}
+ #five {
+    display: inline-block;
+    width: 10px !important;
+    border-radius: 50%;
+
+}
